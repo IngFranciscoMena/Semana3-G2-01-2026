@@ -35,7 +35,8 @@ namespace ArrayListPractica
                     switch (opcion)
                     {
                         case 0:
-                            break;
+                            Console.WriteLine("Hasta la próxima!");
+                            return;
                         case 1:
                             break;
                         case 2:
