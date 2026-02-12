@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="Arreglos/Arreglos.csproj" />
+  <Project Path="ArrayListPractica/ArrayListPractica.csproj" Id="c186a404-ceae-4287-ab97-57fcf743af29" />
+  <Project Path="Arreglos/Arreglos.csproj" Id="252e9040-33b8-46de-993e-2e791e19c57e" />
 </Solution>
