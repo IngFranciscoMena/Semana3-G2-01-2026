@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="ArrayListPractica/ArrayListPractica.csproj" Id="c186a404-ceae-4287-ab97-57fcf743af29" />
   <Project Path="Arreglos/Arreglos.csproj" Id="252e9040-33b8-46de-993e-2e791e19c57e" />
+  <Project Path="Casos de Uso/Casos de Uso.csproj" Id="48860a13-bdb3-4319-bb2d-da972f91bafe" />
+  <Project Path="Colas/Colas.csproj" Id="fd469ddf-3bad-49f9-9052-14c39f672eee" />
   <Project Path="Pilas/Pilas.csproj" Id="3948950b-d241-4cbc-aa74-3da8b09e5e6f" />
 </Solution>
